@@ -1,5 +1,7 @@
 # RCP_averages
-Python script for getting a spreadsheet of RealClearPolitics poll averages by date.
+Python script for getting a spreadsheet of RealClearPolitics poll averages by date. The outputted spreadsheet looks like the screenshot below:
+
+![Screenshot of outputted spreadsheet](https://github.com/AlexAbes/RCP_averages/raw/master/output_img.png)
 
 RealClearPolitics has a widely-used poll average for each state in a presidential election year, as well as a national poll average.
 Some people out there may find such data useful, so I'm making this script public.
